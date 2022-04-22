@@ -1,12 +1,12 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "現在の仮想通貨市場について"
+author: あう
 permalink: /
 ---
 
-# 見出し
+# 私は、、
 
-ここに内容を記述する！
+株や仮想通貨を取引しています。それらを自動的に取引するアルゴリズムを開発したいです。
 
 
 
@@ -24,7 +24,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる  
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://tradingeconomics.com/)
 
 **太字**
 
@@ -47,4 +47,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/220422_GitHubPages/assets/images/logo-150.png)
+![image](/220422_GitHubPages/assets/images/ad.jpeg)
