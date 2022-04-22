@@ -12,7 +12,11 @@ permalink: /
 
 ---
 
-以下テンプレート
+## ユーロ圏の民間部門の成長が加速
+
+Euro Area Private Sector Growth Unexpectedly Accelerates
+
+The S&P Global Flash Eurozone Composite PMI unexpectedly increased to 55.8 in April from 54.9 in March, beating forecasts of 53.9. The reading pointed to the strongest growth in private sector activity in seven months, led by a rebound in services as COVID-19 restrictions eased while manufacturing output nearly stalled on ongoing supply constraints, rising prices and slower demand hit by risk aversion due to the war.
 
 # 見出し1
 ## 見出し2
